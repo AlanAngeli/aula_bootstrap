@@ -1,4 +1,7 @@
-    
+    body{
+        font: 20px, Arial, sans-serif;
+    }
+
     .navbar{
         background-color: #D7E016;
     }
@@ -9,4 +12,8 @@
 
     .margin{
         padding-top: 50px;
+    }
+    
+    .parceiros{
+        background-color: #57E016;
     }
